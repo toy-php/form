@@ -1,4 +1,13 @@
 {
+    "name": "toy-php/form",
+    "description": "ВЕБ приложение",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Seytumerov Mustafa",
+            "email": "seymus007@gmail.com"
+        }
+    ],
     "repositories": [
         {
             "type": "vcs",
