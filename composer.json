@@ -1,0 +1,16 @@
+{
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/toy-php/template"
+        }
+    ],
+    "require": {
+        "toy-php/template": "dev-master"
+    },
+    "autoload": {
+        "psr-0": {
+        "": ["src/"]
+        }
+    }
+}
